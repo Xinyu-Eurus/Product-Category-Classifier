@@ -4,7 +4,7 @@ This project is to train and evaluate a classifier that predicts the category fr
 
 To train and test the classifier, you can simply install all libraries in `requirements.txt`, and run the code `classifier.py` by
 
-    ```python <your-file-path>/Product-Category-Classifier/classifier.py```
+        python <your-file-path>/Product-Category-Classifier/classifier.py
 
 And the program will show the log of preprocess-train-test process.
 
